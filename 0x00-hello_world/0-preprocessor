@@ -1,3 +1,2 @@
 #!/bin/bash
 CFILE="input.c"
-OUTPUT="output.c"
