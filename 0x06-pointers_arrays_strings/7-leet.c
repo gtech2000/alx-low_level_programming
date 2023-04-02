@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * leet - change vowel to numbers.
+ * leet - change vowels to numbers.
  * @s: analized string.
  *
  * Return: string with all vowel changed.
