@@ -5,7 +5,7 @@
  * @x: Number integer
  * @y Power
  *
- * Return: -1.
+ * Return: 1
  */
 int _pow_recursion(int x, int y)
 {
